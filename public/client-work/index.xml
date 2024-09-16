@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client-Works on </title>
+    <link>http://localhost:1313/client-work/</link>
+    <description>Recent content in Client-Works on </description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 25 Aug 2024 10:23:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/client-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bianca Nitzgen</title>
+      <link>http://localhost:1313/client-work/bianca/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/bianca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dachdecker Zielinsky</title>
+      <link>http://localhost:1313/client-work/zielinsky/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/zielinsky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovebusters</title>
+      <link>http://localhost:1313/client-work/groovebusters/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/groovebusters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alexis in Texas</title>
+      <link>http://localhost:1313/client-work/ait/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/ait/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kreuzundquer</title>
+      <link>http://localhost:1313/client-work/kreuzundquer/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/kreuzundquer/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

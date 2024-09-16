@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 25 Aug 2024 10:23:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bianca Nitzgen</title>
+      <link>http://localhost:1313/client-work/bianca/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/bianca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dachdecker Zielinsky</title>
+      <link>http://localhost:1313/client-work/zielinsky/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/zielinsky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovebusters</title>
+      <link>http://localhost:1313/client-work/groovebusters/</link>
+      <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/groovebusters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alexis in Texas</title>
+      <link>http://localhost:1313/client-work/ait/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/ait/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovebusters Webseite</title>
+      <link>http://localhost:1313/projects/groovebusters/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/groovebusters/</guid>
+      <description>&lt;p&gt;Webseite für die Band Groove Busters&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hochzeitssängerin Bianca Nitzgen</title>
+      <link>http://localhost:1313/projects/bianca/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/bianca/</guid>
+      <description>&lt;p&gt;Webseite für die Hochzeitssängerin Bianca Nitzgen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>kreuzundquer</title>
+      <link>http://localhost:1313/client-work/kreuzundquer/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/kreuzundquer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kreuzundquer - Logo &amp; Website</title>
+      <link>http://localhost:1313/projects/kreuzundquer/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/kreuzundquer/</guid>
+      <description>&lt;p&gt;kreuzundquer ist ein Projekt meiner Frau und mir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meine erste Website ist online – Ein Schritt in Richtung kreativer Freiheit!</title>
+      <link>http://localhost:1313/blog/meineerstewebseite/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/meineerstewebseite/</guid>
+      <description>&lt;p&gt;Heute ist ein besonderer Tag für mich, denn ich darf mit Stolz verkünden, dass meine erste Website live gegangen ist! 🎉&lt;/p&gt;&#xA;&lt;p&gt;Die Idee dahinter? Ich wollte einen Ort schaffen, an dem ich meine Fotografien präsentieren kann, und was bietet sich da besser an als ein Portfolio? Auf dieser Seite findest du eine Auswahl meiner besten Bilder – von intensiven Porträts bis hin zu Landschaftsaufnahmen, die meine Reisen und kreativen Ausflüge widerspiegeln. Es ist mein persönlicher Raum, um meine Kunst in Szene zu setzen und mit euch zu teilen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #1</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #2</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #3</title>
+      <link>http://localhost:1313/experience/job-3/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3/</guid>
+      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
