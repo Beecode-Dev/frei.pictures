@@ -3,7 +3,7 @@ date: '2024-08-25T10:23:08+02:00' # date in which the content is created - defau
 title: 'Dachdecker Zielinsky'
 draft: false # set to "true" if you want to hide the content 
 
-link: "ä" # optional URL to link the logo to
+link: "#" # optional URL to link the logo to
 
 params:
     logo:
