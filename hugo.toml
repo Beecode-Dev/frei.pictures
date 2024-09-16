@@ -61,7 +61,7 @@ theme = "adritian-free-hugo-theme"
   weight = 3
 
   [[menu.footer]]
-  name = "Contact"
+  name = "Kontakt"
   URL = "mailto:hi@frei.pictures"
   weight = 4
 
